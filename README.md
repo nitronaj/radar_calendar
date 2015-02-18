@@ -3,4 +3,5 @@ Yeoman creates a .gitignore file for you. This file adds node_modules and bower_
 
 
 $ npm install
+
 $ bower install
